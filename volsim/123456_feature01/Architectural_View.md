@@ -4,7 +4,7 @@
 
 ---
 
-## Architecture Decision Records
+## Architecture Decision Records - LA MIA MODIFICA STA QUI e NON LA
 
 > [!NOTE]
 > Un file per ogni decisione nella cartella `adr/`. Convenzione di naming: `adr/NNN_titolo_decisione.md`. Usare il [template ADR](./adr/000_template.md) fornito. Aggiornare l'elenco sotto ad ogni nuova decisione.
