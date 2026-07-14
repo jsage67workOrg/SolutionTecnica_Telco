@@ -1,4 +1,4 @@
-# Architectural View
+# Architectural View -- modifica
 
 > Torna a [Solution](./README.md)
 
