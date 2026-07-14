@@ -17,6 +17,7 @@
 ---
 
 ## Application Technical Architecture
+## nuovo titolo
 
 <!-- ISTRUZIONE: Descrivere l'insieme delle piattaforme applicative coinvolte nel progetto e le loro interazioni. -->
 
