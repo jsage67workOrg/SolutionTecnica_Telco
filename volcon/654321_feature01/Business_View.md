@@ -1,4 +1,4 @@
-# Business View from SNOW
+# Business View from SNOW modifica
 
 > Torna a [Solution](./README.md)
 
